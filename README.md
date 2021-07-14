@@ -1,13 +1,13 @@
 # Profesional-Readme-Generator :desktop_computer: 
 
 **Table of Contents**
-1.[License](#license)
-2.[Description](#description)
-3.[Installation](#installation) 
-4.[Usage](#usage)  
-5.[Contribution](#contribution)
-6.[Testing](#testing) 
-7.[Questions](#questions)  
+1. [License](#license)
+2. [Description](#description)
+3. [Installation](#installation) 
+4. [Usage](#usage)  
+5. [Contribution](#contribution)
+6. [Testing](#testing) 
+7. [Questions](#questions)  
 
 
 **License** 
