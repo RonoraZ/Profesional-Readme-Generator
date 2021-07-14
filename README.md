@@ -10,31 +10,31 @@
 7. [Questions](#questions)  
 
 
-**License** 
+# **License** 
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-**Description** 
+# **Description** 
 
 A simple Readme generator . Once you answered all the questions it will create your Readme.  
 
-**Installation** 
+# **Installation** 
 
 In order to install you must download through Github. Once download your must implement from the command line or terminal in vscode. Npm init and then use npm install inquierer once installed input node index.js in the command line . 
 
-**Usage** 
+# **Usage** 
 
 In order to use run node index.js in the terminal in Vscode . 
 
-**Contribution** 
+# **Contribution** 
 
 N/A 
 
-**Testing** 
+# **Testing** 
 
 N/A 
 
-**Questions** 
+# **Questions** 
 
 If any questions email me at amalec.c.guzman@gmail.com 
 
